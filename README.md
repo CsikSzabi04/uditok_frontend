@@ -6,7 +6,7 @@
    -ezekkel: <br>
      -git clone https://github.com/CsikSzabi04/uditok_frontend <br>
      -cd utitok <br>
-     - > [!pnpm i] <br>
+     ->[!pnpm i] <br>
      -pnpm dev <br>
 `
 Használata
