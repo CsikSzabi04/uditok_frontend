@@ -10,6 +10,6 @@ Telepítés: <br>
      -pnpm dev <br>
 
 Használata
-  -Üdítők
-  -Szerkeszt
-  -Névjegy
+  -Üdítők<br>
+  -Szerkeszt<br>
+  -Névjegy<br>
