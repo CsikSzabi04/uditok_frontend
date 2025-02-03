@@ -4,10 +4,10 @@
 
 Telepítés:
    -ezekkel:
-     git clone https://github.com/CsikSzabi04/uditok_frontend
-     cd utitok
-       > [!pnpm i]
-     pnpm dev
+     -git clone https://github.com/CsikSzabi04/uditok_frontend
+     -cd utitok
+     - > [!pnpm i]
+     -pnpm dev
 
 Használata
   -Üdítők
