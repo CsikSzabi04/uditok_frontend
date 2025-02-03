@@ -1,8 +1,15 @@
-# React + Vite
+>Üdítők
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`A kedvenc üdítőink én ezt le nem írom ez túl hosszu`
 
-Currently, two official plugins are available:
+Telepítés:
+   -ezekkel:
+     git clone https://github.com/CsikSzabi04/uditok_frontend
+     cd utitok
+       > [!pnpm i]
+     pnpm dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Használata
+  -Üdítők
+  -Szerkeszt
+  -Névjegy
