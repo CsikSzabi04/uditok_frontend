@@ -1,0 +1,11 @@
+.app{ width: 76%; margin: 0px auto; color: black;}
+.lista{flex-wrap: wrap; display: flex; margin: 0px; border-radius: 5px; background-color: white; border: 1px solid grey; padding: 10px; margin: 10px;}
+.inp .i{border: 1px solid orangered; margin:10px; width: 120px; font-size: 15px; border-radius: 5px; background-color: orangered; padding: 10px; color: white; font-family: 'Times New Roman', Times, serif;}
+.inp .i:hover{cursor: pointer;}
+.inp .r{float: right;}
+.x img{width: 300px; height: 300px;}
+.x{text-align: center; display: block; flex-wrap: wrap; margin: 0px ; background-color: white; border-radius: 5px; border: 1px solid grey; padding: 10px; margin: 10px; }
+.mod{padding: 10px;}
+.mod input{margin-right: 10px; padding: 10px; width: 120px;}
+.mod .modB{border: 1px solid orangered; margin:10px; width: 120px; font-size: 15px; border-radius: 5px; background-color: orangered; padding: 10px; color: white; font-family: 'Times New Roman', Times, serif;}
+.mod .modB:hover{cursor: pointer;}
